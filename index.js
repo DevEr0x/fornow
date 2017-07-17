@@ -16,7 +16,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 */
 
 // JimmyBot & Er0x' discord.js project
-// https://git.teknik.io/jimmybot/discord.js-project
+// https://github.com/jmfgdev/fornow
 
 // jshint esversion: 6 
 
